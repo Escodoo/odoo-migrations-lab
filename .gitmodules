@@ -1,0 +1,30 @@
+[submodule "op_dest/openupgrade"]
+	path = op_dest/openupgrade
+	url = https://github.com/oca/openupgrade
+[submodule "op_dest/oca/account-payment"]
+	path = op_dest/oca/account-payment
+	url = https://github.com/oca/account-payment
+[submodule "op_dest/oca/bank-payment"]
+	path = op_dest/oca/bank-payment
+	url = https://github.com/oca/bank-payment
+[submodule "op_dest/oca/currency"]
+	path = op_dest/oca/currency
+	url = https://github.com/oca/currency
+[submodule "op_dest/oca/l10n-brazil"]
+	path = op_dest/oca/l10n-brazil
+	url = https://github.com/oca/l10n-brazil
+[submodule "op_src/openupgrade"]
+	path = op_src/openupgrade
+	url = https://github.com/oca/openupgrade
+[submodule "op_src/oca/l10n-brazil"]
+	path = op_src/oca/l10n-brazil
+	url = https://github.com/oca/l10n-brazil
+[submodule "op_src/oca/currency"]
+	path = op_src/oca/currency
+	url = https://github.com/oca/currency
+[submodule "op_src/oca/bank-payment"]
+	path = op_src/oca/bank-payment
+	url = https://github.com/oca/bank-payment
+[submodule "op_src/oca/account-payment"]
+	path = op_src/oca/account-payment
+	url = https://github.com/oca/account-payment
