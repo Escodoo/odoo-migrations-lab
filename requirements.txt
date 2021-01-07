@@ -31,7 +31,7 @@ Jinja2==2.10.1
 jplephem==2.14
 libsass==0.12.3
 lunardate==0.2.0
-lxml==4.2.3
+lxml==4.6.2
 Mako==1.0.4
 MarkupSafe==0.23
 mock==2.0.0
