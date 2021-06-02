@@ -75,7 +75,7 @@ skyfield-data==1.0.0
 soupsieve==2.0
 suds-jurko==0.6
 tzlocal==2.1
-urllib3==1.24.3
+urllib3==1.26.5
 vatnumber==1.2
 vobject==0.9.3
 Werkzeug==0.11.15
