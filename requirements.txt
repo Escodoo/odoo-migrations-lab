@@ -41,7 +41,7 @@ OdooRPC==0.6.0
 ofxparse==0.16
 openupgradelib @ git+https://github.com/OCA/openupgradelib.git@6c18ce0c160b9cf47c4fa898d9b6c4265d98c216
 oscrypto==1.2.0
-paramiko==2.7.1
+paramiko==2.10.1
 passlib==1.6.5
 pbr==5.4.5
 Pillow==6.1.0
