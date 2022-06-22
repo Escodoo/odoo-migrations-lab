@@ -36,7 +36,7 @@ Mako==1.0.4
 MarkupSafe==0.23
 mock==2.0.0
 num2words==0.5.4
-numpy==1.18.4
+numpy==1.22.0
 OdooRPC==0.6.0
 ofxparse==0.16
 openupgradelib @ git+https://github.com/OCA/openupgradelib.git@6c18ce0c160b9cf47c4fa898d9b6c4265d98c216
